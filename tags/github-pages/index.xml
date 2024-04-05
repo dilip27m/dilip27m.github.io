@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Pages on dilip&#39;s Profile</title>
+    <link>https://dilip27m.github.io/tags/github-pages/</link>
+    <description>Recent content in Github Pages on dilip&#39;s Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="https://dilip27m.github.io/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGO PROFILE</title>
+      <link>https://dilip27m.github.io/blogs/hugo/</link>
+      <pubDate>Sun, 31 Mar 2024 22:53:58 +0530</pubDate>
+      <guid>https://dilip27m.github.io/blogs/hugo/</guid>
+      <description>hugo Step-1 Install hugo in local server sudo apt hugo After installation to check whether installed or not type hugo server choosen a theme from hugo themes. Read all the instructions given in the document .&#xA;Created a hugo site in local server,&#xA;command hugo new site dilip (dilip is hugo repository)&#xA;&amp;lsquo;cd&amp;rsquo; to dilip then &amp;lsquo;cd&amp;rsquo; to themes&#xA;cloned the git repository of the hugo theme (hugo profile)&#xA;Step-2 Finally, the theme is in my local server.</description>
+    </item>
+  </channel>
+</rss>
